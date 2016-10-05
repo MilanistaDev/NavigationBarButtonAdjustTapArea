@@ -12,6 +12,7 @@
 		FD224E881DA5597000221B2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD224E861DA5597000221B2D /* Main.storyboard */; };
 		FD224E8A1DA5597000221B2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD224E891DA5597000221B2D /* Assets.xcassets */; };
 		FD224E8D1DA5597000221B2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD224E8B1DA5597000221B2D /* LaunchScreen.storyboard */; };
+		FD224E951DA55B3C00221B2D /* MainNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD224E941DA55B3C00221B2D /* MainNavigationBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FD224E891DA5597000221B2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD224E8C1DA5597000221B2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD224E8E1DA5597000221B2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD224E941DA55B3C00221B2D /* MainNavigationBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainNavigationBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FD224E821DA5597000221B2D /* AppDelegate.swift */,
 				FD224E841DA5597000221B2D /* ViewController.swift */,
+				FD224E941DA55B3C00221B2D /* MainNavigationBar.swift */,
 				FD224E861DA5597000221B2D /* Main.storyboard */,
 				FD224E891DA5597000221B2D /* Assets.xcassets */,
 				FD224E8B1DA5597000221B2D /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				FD224E851DA5597000221B2D /* ViewController.swift in Sources */,
 				FD224E831DA5597000221B2D /* AppDelegate.swift in Sources */,
+				FD224E951DA55B3C00221B2D /* MainNavigationBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
