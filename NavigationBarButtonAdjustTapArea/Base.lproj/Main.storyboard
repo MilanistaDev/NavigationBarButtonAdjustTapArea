@@ -62,7 +62,7 @@
         <scene sceneID="bhY-KJ-ULO">
             <objects>
                 <navigationController id="hL5-oj-aFM" sceneMemberID="viewController">
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Jp7-Se-1LY">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="Jp7-Se-1LY" customClass="MainNavigationBar" customModule="NavigationBarButtonAdjustTapArea" customModuleProvider="target">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
